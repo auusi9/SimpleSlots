@@ -1,0 +1,111 @@
+{
+  "Reels": 
+  [
+    [5, 1, 2, 7, 4, 6, 3, 4, 1, 1, 5, 3],
+    [2, 7, 1, 4, 7, 3, 5, 6, 6, 6, 7, 6, 4, 6, 7],
+    [3, 2, 4, 3, 1, 6, 7, 1, 1, 1, 5, 5, 3],
+    [6, 4, 4, 6, 3, 5, 2, 2, 1, 7, 7, 6, 5, 4, 6],
+    [3, 7, 1, 2, 5, 5, 4, 4, 5, 5, 3, 1, 2, 7]
+  ],  
+  "Prizes": 
+  [
+    [
+      {
+        "Combination":[1, 1, 1, 1],
+        "PrizeValue":100
+      },
+      {
+        "Combination":[1, 1, 1],
+        "PrizeValue":75
+      },
+      {
+        "Combination":[1, 1],
+        "PrizeValue":50
+      }
+    ],
+    [
+      {
+        "Combination":[4, 4, 4, 4],
+        "PrizeValue":40
+      },
+      {
+        "Combination":[4, 4, 4],
+        "PrizeValue":20
+      },
+      {
+        "Combination":[4, 4],
+        "PrizeValue":10
+      }
+    ],
+    [
+      {
+        "Combination":[7, 7, 7, 7],
+        "PrizeValue":10
+      },
+      {
+        "Combination":[7, 7, 7],
+        "PrizeValue":5
+      },
+      {
+        "Combination":[7, 7],
+        "PrizeValue":2
+      }
+    ],
+    [
+      {
+        "Combination":[2, 2, 2, 2],
+        "PrizeValue":60
+      },
+      {
+        "Combination":[2, 2, 2],
+        "PrizeValue":30
+      },
+      {
+        "Combination":[2, 2],
+        "PrizeValue":20
+      }
+    ],
+    [
+      {
+        "Combination":[5, 5, 5, 5],
+        "PrizeValue":30
+      },
+      {
+        "Combination":[5, 5, 5],
+        "PrizeValue":15
+      },
+      {
+        "Combination":[5, 5],
+        "PrizeValue":10
+      }
+    ],
+    [
+      {
+        "Combination":[3, 3, 3, 3],
+        "PrizeValue":50
+      },
+      {
+        "Combination":[3, 3, 3],
+        "PrizeValue":20
+      },
+      {
+        "Combination":[3, 3],
+        "PrizeValue":10
+      }
+    ],
+    [
+      {
+        "Combination":[6, 6, 6, 6],
+        "PrizeValue":20
+      },
+      {
+        "Combination":[6, 6, 6],
+        "PrizeValue":10
+      },
+      {
+        "Combination":[6, 6],
+        "PrizeValue":5
+      }
+    ]
+  ]
+}
